@@ -1,6 +1,6 @@
 {
   "name": "ember-shell-adk",
-  "version": "0.3.0-alpha",
+  "version": "0.4.0-alpha",
   "description": "Ember-shell's ADK (application development kit)",
   "keywords": [
     "ember-addon",
@@ -45,8 +45,8 @@
     "ember-export-application-global": "^1.0.5",
     "ember-load-initializers": "^0.6.0",
     "ember-resolver": "^2.0.3",
-    "ember-shell": "^0.3.0-alpha",
-    "ember-source": "^2.11.0-beta.2",
+    "ember-shell": "^0.4.0-alpha",
+    "ember-source": "^2.12.0-alpha.1",
     "loader.js": "^4.0.10"
   },
   "engines": {
